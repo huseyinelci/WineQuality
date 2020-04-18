@@ -2,8 +2,6 @@
 
 # WineQuality
 Simple Practice dataset by UCI for Regression or Classification Modelling
-# WineQuality
-Simple Practice dataset by UCI for Regression or Classification Modelling
 
 
 # Context
@@ -55,9 +53,9 @@ For more information, please read [Cortez et al., 2009].
 
 | Tables        |Link on Github or Kaggle|
 | ------------- |:-------------:|
-| Red Wine      |[Kaggle](https://www.kaggle.com/huseyinelci/wne-qualty-by-uci#WineQuality-RedWine.csv) [Github](https://github.com/huseyinelci2000/WineQuality/blob/master/WineQuality-RedWine.csv)|
-| White Wine     |[Kaggle](https://www.kaggle.com/huseyinelci/wne-qualty-by-uci#WineQuality-WhiteWine.csv) [Github](https://github.com/huseyinelci2000/WineQuality/blob/master/WineQuality-WhiteWine.csv|
-| Description Of Columns   |[Kaggle](https://www.kaggle.com/huseyinelci/wne-qualty-by-uci#DescriptionOfColumn.csv) [Github](https://github.com/huseyinelci2000/WineQuality/blob/master/DescriptionOfColumn.csv)|
+| Red Wine      |[Kaggle](https://www.kaggle.com/huseyinelci/wne-qualty-by-uci#WineQuality-RedWine.csv) --[Github](https://github.com/huseyinelci2000/WineQuality/blob/master/WineQuality-RedWine.csv)|
+| White Wine     |[Kaggle](https://www.kaggle.com/huseyinelci/wne-qualty-by-uci#WineQuality-WhiteWine.csv) -- [Github](https://github.com/huseyinelci2000/WineQuality/blob/master/WineQuality-WhiteWine.csv)|
+| Description Of Columns   |[Kaggle](https://www.kaggle.com/huseyinelci/wne-qualty-by-uci#DescriptionOfColumn.csv) -- [Github](https://github.com/huseyinelci2000/WineQuality/blob/master/DescriptionOfColumn.csv)|
 
 
 # Acknowledgements
