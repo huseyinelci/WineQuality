@@ -2,8 +2,6 @@
 
 # WineQuality
 Simple Practice dataset by UCI for Regression or Classification Modelling
-# WineQuality
-Simple Practice dataset by UCI for Regression or Classification Modelling
 
 
 # Context
