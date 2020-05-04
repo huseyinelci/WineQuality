@@ -1,4 +1,4 @@
-<img src="https://github.com/huseyinelci2000/WineQuality/blob/master/Kagglle_Wine_Image3.jpg" width="100%">
+<img src="https://github.com/huseyinelci2000/WineQuality/blob/master/image/Kagglle_Wine_Image3.jpg" width="100%">
 
 # WineQuality
 Simple Practice dataset by UCI for Regression or Classification Modelling
